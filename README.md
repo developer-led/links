@@ -22,7 +22,7 @@ Quality of such content is always very subjective, I know. And it's not possible
 * 📚 [Books](#books) 
 * 🧠 [Knowledge Bases](#knowledge-bases)
 * 👨‍💻 [Developer Led Community](#developer-led-community)
--------------------------------------------------
+---------------------------------------------------------
 
 ## Blogs
 
@@ -48,31 +48,23 @@ Quality of such content is always very subjective, I know. And it's not possible
 
 ## Talks
 
-* [Lessons from Twilio: Content Marketing to Developers](https://www.heavybit.com/library/video/lessons-from-twilio-content-marketing-to-developers/)
-* [Building the next developer experiences - Romain Huet](https://www.youtube.com/watch?v=v03CKxhol8Q&t=29s) 
-* [The developer relations bill of rights - Anil Dash](https://www.youtube.com/watch?v=wQOByc0DGW4) 
-* [Activating developers to drive your advocacy program - Brian Douglas](https://www.youtube.com/watch?v=xUbUV46DZEM&t=986s) 
-* [Connecting dev rel and product - Bear Douglas](https://www.youtube.com/watch?v=XJhwhC3bwkw) 
-* [The intersection of developer relations and product management - Matt Bernier](https://www.youtube.com/watch?v=9MSRfmMwQ0w&t=1s) 
-* [Live API Teardown - Cristiano Betta](https://www.youtube.com/watch?v=4X6iPGnV9jI) 
-* [Building positive developer support experiences - Bear Douglas](https://www.youtube.com/watch?v=EWI8jMlT_Vc) 
-* [Measuring the Health of your OSS Community: Jono Bacon](https://www.youtube.com/watch?v=2e4WSZtzsKI) 
-* [Measuring developer relations: Rey Bango](https://www.youtube.com/watch?v=NRTUA0cSMnQ) 
-* [Scaling developer evangelism: Rob Spectre](https://www.youtube.com/watch?v=SnokHzv53yU&t=1573s) 
-* [Brick by brick approach to developer experience: Cristiano Betta](https://www.youtube.com/watch?v=5Frzvrq52fs) 
-* [The Seven Deadly Sins of Developer Onboarding - Cristiano Betta](https://www.youtube.com/watch?v=G6QsYtjVJbY) 
-* [Building effective community leaders: a guide - Jono Bacon](https://www.youtube.com/watch?v=PHHt1I0x8VM) 
-* [Dev Advocacy FTW! - Alex Salazar](https://www.youtube.com/watch?v=SF3HWiUTJfM) 
-* [Error Messages: Being Humble, Human, and Helpful - Kate Voss](https://www.youtube.com/watch?v=gBBZUATL7Qo) 
-* [Building navigation for your doc site: 5 best practices - Tom Johnson](https://www.youtube.com/watch?v=w-kEmsLwPDE) 
-* [Making Your Code Examples Shine - Larry Ullman](https://www.youtube.com/watch?v=td15D2BLa4c&t=626s) 
-* [Start with the tasks, not the endpoints - Sarah Hersh](https://www.youtube.com/watch?v=R8yjmtIWEKQ&t=5s) 
-* [How to grow and use a strong community - Mada Seghete](https://www.youtube.com/watch?v=2TYy2kPLnKs) 
-* [Scaling external advocacy without losing your soul - Joe Nash](https://www.youtube.com/watch?v=udghlNP13is&t=12s) 
-* [Going to infinity and beyond documentation with OpenAPI - Taylor Barnett](https://www.youtube.com/watch?v=r9fFItBnDT0) 
-* [Open source events and business strategy - Leslie Hawthorn & Laura Czajkowski](https://www.youtube.com/watch?v=jnidMExmIcc) 
-* [Reactive versus proactive strategies for developer relations - Jessica West](https://www.youtube.com/watch?v=zRvruORDsiw) 
-* [Tackling technical debt in the docs - Louise Fahey](https://www.youtube.com/watch?v=AxETZU7sFvQ&t=442s) 
+| Talk       | Author      |
+| ----------- | ----------- |
+| [Steering Established Developer Ecosystem to New Heights](https://www.youtube.com/watch?v=XGC37qIdBcU&t=12s) | [Ricky Robinett](https://www.linkedin.com/in/rickyrobinett/) |
+| [Successful DevRel - No Matter the Org Chart](https://www.youtube.com/watch?v=Rd-_Au7igJ8) | [Bear Douglas](https://x.com/beardigsit) | 
+| [Developer Marketing at Auth0](https://www.youtube.com/watch?v=_mfkJI-jahg) | [Gonto](https://x.com/mgonto) | 
+| [Building the next developer experiences](https://www.youtube.com/watch?v=v03CKxhol8Q&t=29s) | [Romain Huet](https://x.com/romainhuet) | 
+| [The developer relations bill of rights](https://www.youtube.com/watch?v=wQOByc0DGW4)  | [Anil Dash](https://www.linkedin.com/in/anildash/) | 
+| [Reactive versus proactive strategies for developer relations](https://www.youtube.com/watch?v=zRvruORDsiw) | [Jessica West](https://x.com/jessicaewest) | 
+| [Dev Advocacy FTW!](https://www.youtube.com/watch?v=SF3HWiUTJfM)  | [Alex Salazar](https://www.linkedin.com/in/alexsalazar/) | 
+| [Building effective community leaders](https://www.youtube.com/watch?v=PHHt1I0x8VM)  | [Jono Bacon](https://x.com/jonobacon) | 
+| [Activating developers to drive your advocacy program - Brian Douglas](https://www.youtube.com/watch?v=xUbUV46DZEM&t=986s)  | [Brian Douglas](https://x.com/bdougieYO) | 
+| [Connecting dev rel and product](https://www.youtube.com/watch?v=XJhwhC3bwkw) | [Bear Douglas](https://x.com/beardigsit) | 
+| [Building positive developer support experiences](https://www.youtube.com/watch?v=EWI8jMlT_Vc) | [Bear Douglas](https://x.com/beardigsit) | 
+| [Measuring the Health of your OSS Community: Jono Bacon](https://www.youtube.com/watch?v=2e4WSZtzsKI)  | [Jono Bacon](https://x.com/jonobacon) | 
+| [Measuring developer relations](https://www.youtube.com/watch?v=NRTUA0cSMnQ)  | [Ray Bango](https://www.linkedin.com/in/reybango/) |  
+| [Brick by brick approach to developer experience](https://www.youtube.com/watch?v=5Frzvrq52fs)  | [Cristiano Betta](https://www.linkedin.com/in/cbetta/) | 
+| [The Seven Deadly Sins of Developer Onboarding](https://www.youtube.com/watch?v=G6QsYtjVJbY)  | [Cristiano Betta](https://www.linkedin.com/in/cbetta/)  | 
 
 ## Social Media Profiles
 
