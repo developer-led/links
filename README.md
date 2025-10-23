@@ -8,7 +8,7 @@ Have you seen anything worth checking related to developer relations recently? O
 
 Quality of such content is always very subjective, I know. And it's not possible to compile everything. But, what if we can build such knowledge base together, gradually?
 
-**Happy contributing and sharing!**
+**Happy [contributing](https://github.com/developer-led/links?tab=contributing-ov-file) and sharing!**
 
 ## Table of Contents
 
