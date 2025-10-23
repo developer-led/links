@@ -12,16 +12,16 @@ Quality of such content is always very subjective, I know. And it's not possible
 
 ## Table of Contents
 
-✍🏽 [Blogs](#articles)
-📹 [Talks](#talks)
-🐥 [Social Media Profiles](#social-media-profiles) 
-🎤 [Podcasts](#podcasts) 
-🤼 [Communities](#communities) 
-🤩 [Conferences](#conferences) 
-🗞️ [Newsletters](#newsletters) 
-📚 [Books](#books) 
-🧠 [Knowledge Bases](#knowledge-bases)
-👨‍💻 [Developer Led Community](#developer-led-community)
+* ✍🏽 [Blogs](#articles)
+* 📹 [Talks](#talks)
+* 🐥 [Social Media Profiles](#social-media-profiles) 
+* 🎤 [Podcasts](#podcasts) 
+* 🤼 [Communities](#communities) 
+* 🤩 [Conferences](#conferences) 
+* 🗞️ [Newsletters](#newsletters) 
+* 📚 [Books](#books) 
+* 🧠 [Knowledge Bases](#knowledge-bases)
+* 👨‍💻 [Developer Led Community](#developer-led-community)
 -------------------------------------------------
 
 ## Blogs
