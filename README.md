@@ -44,7 +44,7 @@ Quality of such content is always very subjective, I know. And it's not possible
 | [Developer Experience VS User Experience?](https://medium.com/@cramforce/developer-experience-and-user-experience-c4004354b32a)  | [Malte Ubl](https://x.com/cramforce) | 
 | [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) | [Ashley McNamara](https://x.com/ashleymcnamara) | 
 | [Community SDK: Community SDK: How Auth0 built and scaled its developer ecosystem](https://developerled.substack.com/p/community-sdk-how-auth0-build-and) | [Konrad Sopala](https://x.com/yoimkonrad) | 
-| [Developer Relations Vs Marketing - Burke Holland](https://medium.com/the-devrel-salon/developer-relations-vs-marketing-1323dba7ea78) | [Burke Holland](https://x.com/burkeholland) | 
+| [Developer Relations Vs Marketing](https://medium.com/the-devrel-salon/developer-relations-vs-marketing-1323dba7ea78) | [Burke Holland](https://x.com/burkeholland) | 
 
 ## Talks
 
@@ -58,10 +58,10 @@ Quality of such content is always very subjective, I know. And it's not possible
 | [Reactive versus proactive strategies for developer relations](https://www.youtube.com/watch?v=zRvruORDsiw) | [Jessica West](https://x.com/jessicaewest) | 
 | [Dev Advocacy FTW!](https://www.youtube.com/watch?v=SF3HWiUTJfM)  | [Alex Salazar](https://www.linkedin.com/in/alexsalazar/) | 
 | [Building effective community leaders](https://www.youtube.com/watch?v=PHHt1I0x8VM)  | [Jono Bacon](https://x.com/jonobacon) | 
-| [Activating developers to drive your advocacy program - Brian Douglas](https://www.youtube.com/watch?v=xUbUV46DZEM&t=986s)  | [Brian Douglas](https://x.com/bdougieYO) | 
+| [Activating developers to drive your advocacy program](https://www.youtube.com/watch?v=xUbUV46DZEM&t=986s)  | [Brian Douglas](https://x.com/bdougieYO) | 
 | [Connecting dev rel and product](https://www.youtube.com/watch?v=XJhwhC3bwkw) | [Bear Douglas](https://x.com/beardigsit) | 
 | [Building positive developer support experiences](https://www.youtube.com/watch?v=EWI8jMlT_Vc) | [Bear Douglas](https://x.com/beardigsit) | 
-| [Measuring the Health of your OSS Community: Jono Bacon](https://www.youtube.com/watch?v=2e4WSZtzsKI)  | [Jono Bacon](https://x.com/jonobacon) | 
+| [Measuring the Health of your OSS Community](https://www.youtube.com/watch?v=2e4WSZtzsKI)  | [Jono Bacon](https://x.com/jonobacon) | 
 | [Measuring developer relations](https://www.youtube.com/watch?v=NRTUA0cSMnQ)  | [Ray Bango](https://www.linkedin.com/in/reybango/) |  
 | [Brick by brick approach to developer experience](https://www.youtube.com/watch?v=5Frzvrq52fs)  | [Cristiano Betta](https://www.linkedin.com/in/cbetta/) | 
 | [The Seven Deadly Sins of Developer Onboarding](https://www.youtube.com/watch?v=G6QsYtjVJbY)  | [Cristiano Betta](https://www.linkedin.com/in/cbetta/)  | 
