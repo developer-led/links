@@ -28,6 +28,7 @@ Quality of such content is always very subjective, I know. And it's not possible
 
 | Blog        | Author      |
 | ----------- | ----------- |
+| [DevRel Guide to Business](https://dev.to/mattstratton/series/33884) | [Matty Stratton](https://www.linkedin.com/in/mattstratton/) |
 | [Developer Experience](https://leerob.com/dx)| [Lee Robinson](https://x.com/leerob) | 
 | [Developer Relations](https://leerob.com/devrel)| [Lee Robinson](https://x.com/leerob) | 
 | [Developer Products](https://leerob.com/devtools)| [Lee Robinson](https://x.com/leerob) | 
