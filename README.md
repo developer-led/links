@@ -105,13 +105,14 @@ Quality of such content is always very subjective, I know. And it's not possible
 
 ## Books
 
-| Book                                                         | Author                                    |
-| ------------------------------------------------------------ | ------------------------------------------|
-| [Picks and Shovels: Marketing to Developers During the AI Gold Rush](https://www.amazon.com/Picks-Shovels-Marketing-Developers-During/dp/B0FMVLZRK9) | [Prashant Sridharan](https://www.linkedin.com/in/prashantsridharan/)                |
-| [The Developer Facing Startup: Alchemist Accelerator’s go-to-market playbook for early-stage developer-facing startups](https://www.amazon.com/Developer-Facing-Startup-market-developer-facing/dp/B0D4KGHQML) | [Adam Frankl](https://www.linkedin.com/in/adamfrankl/) |
+| Book                                                         | Author                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Picks and Shovels: Marketing to Developers During the AI Gold Rush](https://www.amazon.com/Picks-Shovels-Marketing-Developers-During/dp/B0FMVLZRK9) | [Prashant Sridharan](https://www.linkedin.com/in/prashantsridharan/) |
+| [The Developer Facing Startup: Alchemist Accelerator’s go-to-market playbook for early-stage developer-facing startups](https://www.amazon.com/Developer-Facing-Startup-market-developer-facing/dp/B0D4KGHQML) | [Adam Frankl](https://www.linkedin.com/in/adamfrankl/)       |
 | [The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success](https://www.amazon.com/dp/1484237471) | [Mary Thengvall](https://www.linkedin.com/in/marythengvall/) |
-| [The Business of Belonging: How to Make Community your Competitive Advantage](https://www.amazon.com/dp/1119766125) | [David Spinks](https://www.linkedin.com/in/davidspinks/) | 
-| [The Art of Community: Building the New Age of Participation](https://www.amazon.com/dp/1449312063) | [Jono Bacon](https://www.linkedin.com/in/jonobacon/)| 
+| [The Business of Belonging: How to Make Community your Competitive Advantage](https://www.amazon.com/dp/1119766125) | [David Spinks](https://www.linkedin.com/in/davidspinks/)     |
+| [The Art of Community: Building the New Age of Participation](https://www.amazon.com/dp/1449312063) | [Jono Bacon](https://www.linkedin.com/in/jonobacon/)         |
+| [I Am a Developer Advocate](https://leanpub.com/i-am-a-developer-advocate) | [Andrea Chiarelli](https://www.linkedin.com/in/andreachiarelli/) |
 
 ## Knowledge Bases
 
