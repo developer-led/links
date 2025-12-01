@@ -79,10 +79,12 @@ Quality of such content is always very subjective, I know. And it's not possible
 
 ## Podcasts
 
+* [Code to Market](https://codetomarket.fm/) - [Hank Taylor](https://x.com/theHankTaylor) & [Gonto](https://x.com/mgonto)
+* [Scaling Devtools](https://scalingdevtools.com/podcast) - [Jack Bridger](https://x.com/jacksbridger)
+
 | Podcast                                                 | Author                                                                     |
 | ------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Code to Market](https://codetomarket.fm/)              | [Hank Taylor](https://x.com/theHankTaylor) & [Gonto](https://x.com/mgonto) |
-| [Scaling Devtools](https://scalingdevtools.com/podcast) | [Jack Bridger](https://x.com/jacksbridger)                                 |
+| [How RevenueCat tore up the sales playbook, with Rik Haandrikman](https://scalingdevtools.com/podcast/episodes/how-revenuecat-tore-up-the-sales-playbook-with-rik-haandrikman) | [Jack Bridger](https://x.com/jacksbridger) & [Hendrik Haandrikman](https://x.com/HHaandr) |
 
 ## Communities
 
